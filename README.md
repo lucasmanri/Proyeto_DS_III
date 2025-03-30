@@ -31,4 +31,4 @@ Este proyecto realiza un análisis de sentimientos en tweets relacionados con ae
 - El proyecto muestra la distribución de sentimientos en los tweets y ofrece herramientas para el análisis detallado del lenguaje utilizado 📉📈.
 
 👨‍💻 Autor
-Lucas Manrique
+Lucas F. Manrique Aliaga
