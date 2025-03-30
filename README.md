@@ -19,7 +19,7 @@ Este proyecto realiza un análisis de sentimientos en tweets relacionados con ae
 - 🤖 Uso de transformers para análisis de sentimientos
 
 ⚙️ Requisitos
-- Python 3 🐍
+- Python 🐍
 - Bibliotecas: NLTK, pandas, matplotlib, wordcloud, transformers 📚
 
 🚀 Cómo Ejecutar
