@@ -1,4 +1,8 @@
-#Análisis de Sentimientos en Tweets de Aerolíneas ✈️
+
+# 🛫 ANÁLISIS DE SENTIMIENTOS EN TWEETS DE AEROLÍNEAS  | NLP & Machine Learning ✈️    
+<p align="center">
+  <img width="90%" src="https://img.shields.io/badge/NATURAL%20LANGUAGE%20PROCESSING-EMOCIONES%20EN%20TWITTER-blue" alt="NLP">
+</p>
 
 📌 Descripción
 Este proyecto realiza un análisis de sentimientos en tweets relacionados con aerolíneas utilizando técnicas de procesamiento de lenguaje natural (NLP) 🤖 y aprendizaje automático. El objetivo es clasificar los tweets en positivos 😊, negativos 😠 o neutrales 😐.
